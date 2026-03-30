@@ -36,6 +36,10 @@
       },
       "entries": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"
@@ -70,6 +74,10 @@
       },
       "forEach": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"
@@ -104,6 +112,10 @@
       },
       "has": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"
@@ -138,6 +150,10 @@
       },
       "keys": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"
@@ -172,6 +188,10 @@
       },
       "size": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"
@@ -206,6 +226,10 @@
       },
       "values": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"
@@ -240,6 +264,10 @@
       },
       "@@iterator": {
         "__compat": {
+          "spec_url": [
+            "https://immersive-web.github.io/plane-detection/#xrplaneset",
+            "https://webidl.spec.whatwg.org/#js-setlike"
+          ],
           "support": {
             "chrome": {
               "version_added": "147"

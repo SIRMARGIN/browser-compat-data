@@ -57,7 +57,7 @@
         "__compat": {
           "description": "`Request()` constructor",
           "mdn_url": "https://developer.mozilla.org/docs/Web/API/Request/Request",
-          "spec_url": "https://fetch.spec.whatwg.org/#ref-for-dom-request①",
+          "spec_url": "https://fetch.spec.whatwg.org/#dom-request",
           "tags": [
             "web-features:fetch"
           ],
@@ -108,6 +108,7 @@
         "cross_origin_stripped": {
           "__compat": {
             "description": "cross-origin `referrer` stripped out and `navigate` mode converted to `same-origin` when constructor created from existing `Request` object.",
+            "spec_url": "https://fetch.spec.whatwg.org/#dom-request",
             "tags": [
               "web-features:fetch"
             ],
@@ -437,6 +438,7 @@
         "request_body_readablestream": {
           "__compat": {
             "description": "Send `ReadableStream` in request body",
+            "spec_url": "https://fetch.spec.whatwg.org/#dom-body-body",
             "tags": [
               "web-features:fetch"
             ],
@@ -478,6 +480,7 @@
         "response_body_readablestream": {
           "__compat": {
             "description": "Consume `ReadableStream` as a response body",
+            "spec_url": "https://fetch.spec.whatwg.org/#dom-body-body",
             "tags": [
               "web-features:fetch"
             ],
@@ -798,6 +801,7 @@
         },
         "only-if-cached": {
           "__compat": {
+            "spec_url": "https://fetch.spec.whatwg.org/#dom-requestcache-only-if-cached",
             "tags": [
               "web-features:fetch"
             ],
@@ -932,6 +936,7 @@
         "default_same-origin": {
           "__compat": {
             "description": "Default value `same-origin`",
+            "spec_url": "https://fetch.spec.whatwg.org/#concept-request-credentials-mode",
             "tags": [
               "web-features:fetch"
             ],
@@ -1024,6 +1029,7 @@
         "speculationrules": {
           "__compat": {
             "description": "`speculationrules` value",
+            "spec_url": "https://html.spec.whatwg.org/multipage/speculative-loading.html#speculation-rules",
             "tags": [
               "web-features:speculation-rules"
             ],
@@ -1489,6 +1495,7 @@
         "navigate_mode": {
           "__compat": {
             "description": "`navigate` mode",
+            "spec_url": "https://fetch.spec.whatwg.org/#dom-requestmode-navigate",
             "tags": [
               "web-features:fetch"
             ],

@@ -40,7 +40,7 @@
       "permission_accelerometer": {
         "__compat": {
           "description": "`accelerometer` permission",
-          "spec_url": "https://w3c.github.io/sensors/#permissions-policy-api",
+          "spec_url": "https://w3c.github.io/deviceorientation/#permissiondef-accelerometer",
           "tags": [
             "web-features:accelerometer"
           ],
@@ -111,6 +111,7 @@
       "permission_ambient-light-sensor": {
         "__compat": {
           "description": "`ambient-light-sensor` permission",
+          "spec_url": "https://w3c.github.io/ambient-light/#permissiondef-ambient-light-sensor",
           "tags": [
             "web-features:ambient-light"
           ],
@@ -152,6 +153,7 @@
       "permission_background-sync": {
         "__compat": {
           "description": "`background-sync` permission",
+          "spec_url": "https://wicg.github.io/background-sync/spec/#permissions-integration",
           "tags": [
             "web-features:background-sync"
           ],
@@ -189,6 +191,7 @@
       "permission_camera": {
         "__compat": {
           "description": "`camera` permission",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dfn-camera",
           "tags": [
             "web-features:media-capture"
           ],
@@ -331,6 +334,7 @@
       "permission_geolocation": {
         "__compat": {
           "description": "`geolocation` permission",
+          "spec_url": "https://www.w3.org/TR/geolocation/#dfn-geolocation",
           "tags": [
             "web-features:geolocation"
           ],
@@ -369,6 +373,7 @@
       "permission_gyroscope": {
         "__compat": {
           "description": "`gyroscope` permission",
+          "spec_url": "https://w3c.github.io/deviceorientation/#permissiondef-gyroscope",
           "tags": [
             "web-features:gyroscope"
           ],
@@ -405,6 +410,7 @@
       "permission_local-fonts": {
         "__compat": {
           "description": "`local-fonts` permission",
+          "spec_url": "https://wicg.github.io/local-font-access/#permissiondef-local-fonts",
           "tags": [
             "web-features:local-fonts"
           ],
@@ -442,6 +448,7 @@
       "permission_magnetometer": {
         "__compat": {
           "description": "`magnetometer` permission",
+          "spec_url": "https://w3c.github.io/deviceorientation/#permissiondef-magnetometer",
           "tags": [
             "web-features:magnetometer"
           ],
@@ -483,6 +490,7 @@
       "permission_microphone": {
         "__compat": {
           "description": "`microphone` permission",
+          "spec_url": "https://w3c.github.io/mediacapture-main/#dfn-microphone",
           "tags": [
             "web-features:media-capture"
           ],
@@ -559,6 +567,7 @@
       "permission_notifications": {
         "__compat": {
           "description": "`notifications` permission",
+          "spec_url": "https://notifications.spec.whatwg.org/#permissiondef-notifications",
           "tags": [
             "web-features:notifications"
           ],
@@ -628,7 +637,7 @@
           },
           "status": {
             "experimental": true,
-            "standard_track": true,
+            "standard_track": false,
             "deprecated": false
           }
         }
@@ -636,6 +645,7 @@
       "permission_persistent-storage": {
         "__compat": {
           "description": "`persistent-storage` permission",
+          "spec_url": "https://storage.spec.whatwg.org/#persistence",
           "tags": [
             "web-features:storage-manager"
           ],
@@ -672,6 +682,7 @@
       "permission_push": {
         "__compat": {
           "description": "`push` permission",
+          "spec_url": "https://www.w3.org/TR/push-api/#dfn-push",
           "tags": [
             "web-features:push"
           ],
