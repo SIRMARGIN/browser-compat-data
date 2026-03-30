@@ -1,5 +1,28 @@
 # @mdn/browser-compat-data release notes
 
+## [v7.3.10](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.10)
+
+March 30, 2026
+
+### Removals
+
+- `html.elements.video.autoplay.loading` ([#29359](https://github.com/mdn/browser-compat-data/pull/29359))
+
+### Additions
+
+- `api.Element.attachShadow.options_referenceTarget_parameter` ([#29261](https://github.com/mdn/browser-compat-data/pull/29261))
+- `api.HTMLTemplateElement.shadowRootReferenceTarget` ([#29261](https://github.com/mdn/browser-compat-data/pull/29261))
+- `html.elements.video.loading` ([#29359](https://github.com/mdn/browser-compat-data/pull/29359))
+- `manifests.webapp.migrate_from` ([#29356](https://github.com/mdn/browser-compat-data/pull/29356))
+- `manifests.webapp.migrate_to` ([#29356](https://github.com/mdn/browser-compat-data/pull/29356))
+
+### Statistics
+
+- 6 contributors have changed 15 files with 286 additions and 94 deletions in 6 commits ([`v7.3.9...v7.3.10`](https://github.com/mdn/browser-compat-data/compare/v7.3.9...v7.3.10))
+- 19,533 total features
+- 1,237 total contributors
+- 5,620 total stargazers
+
 ## [v7.3.9](https://github.com/mdn/browser-compat-data/releases/tag/v7.3.9)
 
 March 27, 2026
